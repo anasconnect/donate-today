@@ -1,0 +1,92 @@
+#first-section-special{
+    background-image: url(images/donation6.jpg);
+    padding: 100px 30px;
+    color: hwb(0 100% 0%);
+
+}
+.center{
+    text-align: center;
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+.page-link{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-color: orangered;
+    margin-top: 100px;
+    padding: 10px 20px;
+    border: 5px;
+    border-radius: 5px;
+}
+h2{
+    margin-top: 40px;
+    font-size: 35px;
+}
+.adjust{
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+}
+#special{
+    color: orangered;
+    border: 2px solid orangered;
+    
+    
+}
+.box{
+    font-size: 25px;
+    padding: 10px 40px;
+    margin-inline: 8px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin-bottom: 40px;
+}
+#input-money{
+        border:none;
+        border-bottom: 2px solid #D3D3D3;
+        padding: 10px 200px;
+        margin-bottom: 30px;
+}
+.ash{
+    background-color: aliceblue;
+}
+.light-pink{
+    background-color: lightpink;
+}
+.cream{
+    background-color: #FFFDD0;
+}
+.Cause-in-the-box{
+    padding: 10px 5px;
+    border-radius: 5px;
+    margin: 5px;
+    margin-bottom: 50px;
+}
+#border-of-the-form{
+    background-color: #FFFDD0;
+    padding: 100px 20px; 
+    margin-bottom: 50px;
+}
+#button-color{
+    background-color: orangered;
+    font-size: 20px;
+    padding: 10px 20px;
+    color: white;
+    border-top-right-radius: 5px;
+    border: none;
+}
+footer{
+        color: white;
+        background-color:black;
+        padding: 5px;
+}
+.font{
+    font-family: 'Lobster', cursive;
+    color: red;
+    font-size: 30px;
+}
