@@ -46,6 +46,12 @@ h2{
     background-color: aliceblue;
     margin-bottom: 40px;
 }
+.margin{
+    margin: 30px;
+}
+b{
+    color: rgba(231, 41, 41, 0.897);
+}
 #input-money{
         border:none;
         border-bottom: 2px solid #D3D3D3;
